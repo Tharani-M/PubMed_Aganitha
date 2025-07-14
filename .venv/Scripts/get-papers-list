@@ -1,0 +1,6 @@
+#!F:\Aganithaa\.venv\Scripts\python.exe
+import sys
+from get_papers_list.cli import app
+
+if __name__ == '__main__':
+    sys.exit(app())
